@@ -1,0 +1,18 @@
+/* bugSolution.css */
+
+#myDiv {
+  background-color: rgb(240, 240, 240);
+  /* Instead of #F0F0F0, use its RGB equivalent */
+  width: 200px;
+  height: 100px;
+}
+
+/* Additional styles for demonstration purposes */
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: space-around;
+}
